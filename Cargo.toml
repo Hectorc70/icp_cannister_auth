@@ -1,0 +1,5 @@
+[workspace]
+members = [
+    "src/cannister_auth_backend"
+]
+resolver = "2"

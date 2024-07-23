@@ -1,0 +1,17 @@
+{
+  "canisters": {
+    "cannister_auth_backend": {
+      "candid": "src/cannister_auth_backend/cannister_auth_backend.did",
+      "package": "cannister_auth_backend",
+      "type": "rust"
+    }
+  },
+  "defaults": {
+    "build": {
+      "args": "",
+      "packtool": ""
+    }
+  },
+  "output_env_file": ".env",
+  "version": 1
+}
